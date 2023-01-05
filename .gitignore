@@ -2,3 +2,5 @@
 dataset
 *.pt
 submission.csv
+trained_models
+training_plots
